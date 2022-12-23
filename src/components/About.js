@@ -17,7 +17,7 @@ const About = () => {
           </div>
           <div className="wel-col">
             <p>
-              <b> Dr. Pramod Dubey Consultant Homeopathic and general physician ,</b>
+              <b> Dr. Pramod Dubey Consultant Homeopathic and General Physician ,</b>
               completed B.Sc (Bachelor of Science)
               from Tilak College Katni.
              Then, completed B.H.M.S (Bachelor of Homoeopathic Medicine & Surgery)
@@ -36,7 +36,7 @@ const About = () => {
               <b> Dev Homeopathy Clinic ,Katni </b> to treat
               health-related issues from all cities in Madhya Pradesh.
             </p>
-            <p> <b>Dev Homeopathy Clinic ,Katni Establishment Year  - 1 Febuary 2021</b> </p>
+            <p> <b>Dev Homeopathy Clinic ,Katni Establishment Year  - 1 February  2021</b> </p>
             <p>
               <b>Dr. Pramod Dubey </b>is highly <b>Qualified & trained</b> in
               dealing with all kinds of diseases like sugar, blood pressure, piles, paralysis, migraine, genital diseases, female and male skin diseases, sciatica, kidney or gallstones, impotence, infertility, uterine lumps, pimples, hair loss, menstrual irregularities, insomnia, gas, constipation, allergies. Back or joint pain, psoriasis,weight gain and weight loss, warts are successfully treated by homeopathy.
