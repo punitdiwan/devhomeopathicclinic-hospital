@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -57,10 +58,14 @@ const Home = () => {
           medicine. Dr. Pramod Dubey & began there service in 1 February 2021.
           Dr. Pramod Dubey is a well known person in MP.
         </p>
+        <p> <b>Dr. Pramod Dubey </b>is highly <b>Qualified & trained</b> in
+              dealing with all kinds of diseases like sugar, blood pressure, piles, paralysis, migraine, genital diseases, female and male skin diseases, sciatica, kidney or gallstones, impotence, infertility, uterine lumps, pimples, hair loss, menstrual irregularities, insomnia, gas, constipation, allergies. Back or joint pain, psoriasis,weight gain and weight loss, warts are successfully treated by homeopathy.</p>
 
-        <a href="#">
+              <p><b>All Types of test Facilities like <span style={{color:"#126b0d"}}>Blood, Urine, Sugar, Blood Pressure, ECG etc.</span> Test Facilities are available.</b></p>
+
+        <Link to="/aboutus">
           <button>Read More</button>
-        </a>
+        </Link>
       </div>
       {/* ------------------------------------------- */}
 
@@ -210,11 +215,11 @@ const Home = () => {
           <h3>TO WHOM SO EVER CONCERN</h3>
           <p>
             This is to state that we know Dr. Pramod Dubey for the past
-            15 years. he has been treating our family for all ailments with
+            15 years. He has been treating our family for all ailments with
             good result.
           </p>
           <p>
-            he is friendly that her approach cures half the decieses. We pray
+            He is friendly that her approach cures half the decieses. We pray
             the almightly to give her good health to serve for the people.
           </p>
           <p className="italic"><em>Prakhar dwivedi</em></p>

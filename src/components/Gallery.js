@@ -40,7 +40,7 @@ const Gallery = () => {
             <img src="./img/g8.jpeg" alt="" />
           </div>
           <div className="gallery-col">
-            {/* <img src="./img/g3.jpeg" alt="" /> */}
+            <img src="./img/g9.jpeg" alt="" />
           </div>
         </div>
       </div>
