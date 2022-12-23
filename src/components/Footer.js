@@ -10,7 +10,7 @@ const Footer = () => {
             <p>
             Homeopathic and general physician   "We treat all kinds of diseases like sugar, blood pressure, piles, paralysis, migraine, genital diseases, female and male skin diseases, sciatica, kidney or gallstones, impotence, infertility, uterine lumps, pimples, hair loss, menstrual irregularities, insomnia, gas, constipation, allergies. Back or joint pain, psoriasis,,weight gain and weight loss, warts are successfully treated by homeopathy... 
             </p>
-            <p>All types of test facilities like blood, urine, sugar, blood pressure, ECG etc. test facilities are available....</p>
+            <p><b>All Types of test Facilities like <span style={{color:"#ffff00"}}>Blood, Urine, Sugar, Blood Pressure, ECG etc.</span> Test Facilities are available.</b></p>
           </div>
           <div className="footer-col footer-col-2">
             <h3>ADDRESS</h3>
